@@ -1,7 +1,7 @@
 import './App.css';
 import Player from './Player';
 import CardList from './CardList';
-import initialCards from './cards-data';
+// import initialCards from './cards-data';
 import ExecutePassButton from './ExecutePassButton';
 import { useCardContext } from './ContextProvider';
 
